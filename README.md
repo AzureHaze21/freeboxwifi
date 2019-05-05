@@ -3,6 +3,6 @@
 ## Usage
 
 ```
-python wifienabler.py disable
-python wifienabler.py enable
+python wifienable.py disable
+python wifienable.py enable
 ```
